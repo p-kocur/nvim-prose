@@ -1,1 +1,6 @@
 nvim.log
+.agents/
+.eden/
+.hg/
+.muse/
+.sl/
