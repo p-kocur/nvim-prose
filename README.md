@@ -29,7 +29,7 @@ What you get:
 ## Install
 
 ```sh
-git clone git@github.com:<you>/nvim-prose.git ~/.config/nvim-prose
+git clone git@github.com:p-kocur/nvim-prose.git ~/.config/nvim-prose
 sudo apt install git pandoc python3-docx
 ```
 
