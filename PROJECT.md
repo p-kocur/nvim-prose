@@ -136,6 +136,12 @@ Approved with your answers "B" (Q1: Times New Roman 12) and "Q2 A"
 2. The `.docx` carries the chosen font, size, and line spacing.
 3. Missing python-docx → clear error telling you to install it.
 
+## Step 5 amendment (docs, approved)
+
+Approved with your request "Add all installation and this bash/zsh trick
+to README". Boundary: new `README.md` (install, run, keys, export,
+troubleshooting). No code changes.
+
 ## Open questions
 
 None — decision tree exhausted and document accepted as Final.
